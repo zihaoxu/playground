@@ -1,4 +1,4 @@
-# Playground1234567
+Playground1234567
 
 A place to play with `git`.
 
